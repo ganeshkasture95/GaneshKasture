@@ -88,12 +88,16 @@
     .about__me{
         width: 65%;
         margin: 0 auto 3rem;
+        text-align: center;
 
     }
     .about__cards{
         grid-template-columns: 1fr ;
-
+        width: 75%;
         gap :1rem;
+        position: relative;
+        left: 50%;
+        transform: translateX(-50%);
     }
     .about__content{
         text-align: center;
