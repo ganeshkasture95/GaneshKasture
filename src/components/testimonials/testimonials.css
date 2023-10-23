@@ -1,8 +1,8 @@
 .textimonials__container{
-    width: 40%;
-    /* display: grid; */
-    /* grid-template-columns: 1fr 1fr; */
-    /* gap: 2rem; */
+    /* width: 40%; */
+    display: grid;
+    grid-template-columns: 1fr 1fr; 
+    gap: 2rem;
 
 }
 .client__avatar{
