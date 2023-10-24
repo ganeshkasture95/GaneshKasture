@@ -31,7 +31,7 @@ const About = () => {
 
 
               <h5>Clients</h5>
-              <small>300+ Worldwide</small>
+              <small>35+ Worldwide</small>
             </article>
             <article className='about__card'>
               <AiTwotoneFolderOpen className='about__icon' />

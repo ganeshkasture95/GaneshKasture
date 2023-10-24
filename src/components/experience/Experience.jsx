@@ -22,7 +22,7 @@ const Experience = () => {
           <article className='experience__details'>
             <BsFillPatchCheckFill className="experience__detail-icons"/>
             <div>
-            <h4>CSSL</h4>
+            <h4>CSS</h4>
             <small className='text-light'> Experienced</small>
             </div>
           </article>

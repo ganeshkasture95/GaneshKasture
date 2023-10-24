@@ -17,24 +17,24 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <GiCheckMark className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, eligendi.</p>
+              <p>User Interface (UI) Design.</p>
             </li>
             <li>
+              <GiCheckMark className='service__list-icon'/>
+              <p>Wireframing and Prototyping.</p>
+            </li>
+            <li>
+              <GiCheckMark className='service__list-icon'/>
+              <p>User Experience (UX) Design.</p>
+            </li>
+            {/* <li>
               <GiCheckMark className='service__list-icon'/>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, eligendi.</p>
             </li>
             <li>
               <GiCheckMark className='service__list-icon'/>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, eligendi.</p>
-            </li>
-            <li>
-              <GiCheckMark className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, eligendi.</p>
-            </li>
-            <li>
-              <GiCheckMark className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, eligendi.</p>
-            </li>
+            </li> */}
           </ul>
         </article>
 

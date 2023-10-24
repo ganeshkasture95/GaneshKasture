@@ -40,11 +40,11 @@
 }
 .about__card:hover{
     background:transparent;
-    border-color: var(--color-bg-varient);
+    border-color: var(--color-bg-variant);
     cursor: default;
 }
 .about__icon{
-    color:var(--color-primary-variant);
+    color:var(--color-primary);
     font-size: 1.4rem;
     margin-bottom: 1rem;
 
