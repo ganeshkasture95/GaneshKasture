@@ -1,5 +1,5 @@
 import React from 'react'
-import ME from '../../assets/PicsArt_10-30-10.50.11.png'
+import ME from '../../assets/GK-Black Bleaser Background Removed.png'
 import CTA from './CTA'
 import './Header.css'
 import HeaderSocials from './HeaderSocials'
