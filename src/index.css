@@ -12,9 +12,9 @@
 
 :root{
     --color-bg:#1f1f38;
-    --color-bg-variant:#2c2c6c;
-    --color-primary:#4db5ff;
-    --color-primary-variant:rgba(77,181,255,0.4);
+    --color-bg-variant: #211010;
+    --color-primary:#f02828;
+    --color-primary-variant:rgb(100 3 3);
     --color-white:#fff;
     --color-light:rgba(255,255,255,0.6);
 
@@ -39,7 +39,7 @@ body{
     color: var(--color-white);
     line-height: 1.7;
     /* background-image: url(../src/assets/background01.webp);s */
-    background-color: #334db2 ;
+    background-color: #201e1e ;
 
     /* 
     #2c2c6c 
