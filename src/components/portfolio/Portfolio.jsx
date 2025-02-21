@@ -3,8 +3,6 @@ import IMG1 from '../../assets/project01.png'
 import IMG2 from '../../assets/project02.png'
 import IMG3 from '../../assets/project03.png'
 import IMG4 from '../../assets/project04.png'
-import IMG5 from '../../assets/project05.jpg'
-import IMG6 from '../../assets/project06.png'
 import './Portfolio.css'
 
 
@@ -78,6 +76,78 @@ import './Portfolio.css'
 
 const Portfolio = () => {
   return (
+    // <section id='portfolio'>
+
+    //   <h5>My Recent Work</h5>
+    //   <h2>Portfolio</h2>
+
+    //   <div className="container portfolio__container">
+    //     <article className='portfolio__item'>
+    //       <div className="portfolio__item-image">
+    //         <img src={IMG1} alt="gk" />
+    //       </div>
+    //       <h3>#_Football-Score_#</h3>
+    //       <div className="portfolio__item-cta">
+    //         <a href="https://github.com/ganeshkasture95" className='btn'>Github</a>
+    //         <a href="https://github.com/ganeshkasture95" className='btn  btn-primary'>Live Demo</a>
+    //       </div>
+    //     </article>
+    //     <article className='portfolio__item'>
+    //       <div className="portfolio__item-image">
+    //         <img src={IMG2} alt="gk" />
+    //       </div>
+    //       <h3>X_AI Pro Trade_X</h3>
+    //       <div className="portfolio__item-cta">
+    //         <a href="https://github.com/ganeshkasture95" className='btn'>Github</a>
+    //         <a href="https://github.com/ganeshkasture95" className='btn  btn-primary'>Live Demo</a>
+    //       </div>
+    //     </article>
+    //     <article className='portfolio__item'>
+    //       <div className="portfolio__item-image">
+    //         <img src={IMG3} alt="gk" />
+    //       </div>
+    //       <h3>#_Love Track_#</h3>
+    //       <div className="portfolio__item-cta">
+    //         <a href="https://github.com/ganeshkasture95" className='btn'>Github</a>
+    //         <a href="https://github.com/ganeshkasture95" className='btn  btn-primary'>Live Demo</a>
+    //       </div>
+    //     </article>
+    //     <article className='portfolio__item'>
+    //       <div className="portfolio__item-image">
+    //         <img src={IMG4} alt="gk" />
+    //       </div>
+    //       <h3>@_ChouseYourCard_@</h3>
+    //       <div className="portfolio__item-cta">
+    //         <a href="https://github.com/ganeshkasture95" className='btn'>Github</a>
+    //         <a href="https://github.com/ganeshkasture95" className='btn  btn-primary'>Live Demo</a>
+    //       </div>
+    //     </article>
+    //     <article className='portfolio__item'>
+    //       <div className="portfolio__item-image">
+    //         <img src={IMG5} alt="gk" />
+    //       </div>
+    //       <h3>@_MyNewCarDrive_@</h3>
+    //       <div className="portfolio__item-cta">
+    //         <a href="https://github.com/ganeshkasture95" className='btn'>Github</a>
+    //         <a href="https://github.com/ganeshkasture95" className='btn  btn-primary'>Live Demo</a>
+    //       </div>
+    //     </article>
+    //     <article className='portfolio__item'>
+    //       <div className="portfolio__item-image">
+    //         <img src={IMG6} alt="gk" />
+    //       </div>
+    //       <h3>@_Money_@</h3>
+    //       <div className="portfolio__item-cta">
+    //         <a href="https://github.com/ganeshkasture95" className='btn'>Github</a>
+    //         <a href="https://github.com/ganeshkasture95" className='btn  btn-primary'>Live Demo</a>
+    //       </div>
+    //     </article>
+    //   </div>
+
+    // </section>
+
+
+
     <section id='portfolio'>
 
       <h5>My Recent Work</h5>
@@ -88,65 +158,56 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG1} alt="gk" />
           </div>
-          <h3>#_Football-Score_#</h3>
+          <h3>MoneyX 01/2025</h3>
+          <p>Built a trading platform using React Native (TypeScript) and Node.js for real-time market analysis and strategy sharing.</p>
           <div className="portfolio__item-cta">
             <a href="https://github.com/ganeshkasture95" className='btn'>Github</a>
-            <a href="https://github.com/ganeshkasture95" className='btn  btn-primary'>Live Demo</a>
           </div>
         </article>
         <article className='portfolio__item'>
           <div className="portfolio__item-image">
             <img src={IMG2} alt="gk" />
           </div>
-          <h3>X_AI Pro Trade_X</h3>
+          <h3>Monogram 12/2024</h3>
+          <p>A social media app built with Flutter and Firebase, designed exclusively for tech enthusiasts to share ideas and collaborate on projects.</p>
           <div className="portfolio__item-cta">
             <a href="https://github.com/ganeshkasture95" className='btn'>Github</a>
-            <a href="https://github.com/ganeshkasture95" className='btn  btn-primary'>Live Demo</a>
           </div>
         </article>
         <article className='portfolio__item'>
           <div className="portfolio__item-image">
             <img src={IMG3} alt="gk" />
           </div>
-          <h3>#_Love Track_#</h3>
+          <h3>Retro Runner 07/2024</h3>
+          <p>A 2D platformer game developed with Godot, offering an easy-to-pick-up-and-play experience reminiscent of classic Mario games.</p>
           <div className="portfolio__item-cta">
             <a href="https://github.com/ganeshkasture95" className='btn'>Github</a>
-            <a href="https://github.com/ganeshkasture95" className='btn  btn-primary'>Live Demo</a>
           </div>
         </article>
         <article className='portfolio__item'>
           <div className="portfolio__item-image">
             <img src={IMG4} alt="gk" />
           </div>
-          <h3>@_ChouseYourCard_@</h3>
+          <h3>GameOn 06/2024</h3>
+          <p>A gaming-focused website built with React, featuring dynamic animations using GSAP.</p>
           <div className="portfolio__item-cta">
             <a href="https://github.com/ganeshkasture95" className='btn'>Github</a>
-            <a href="https://github.com/ganeshkasture95" className='btn  btn-primary'>Live Demo</a>
-          </div>
-        </article>
-        <article className='portfolio__item'>
-          <div className="portfolio__item-image">
-            <img src={IMG5} alt="gk" />
-          </div>
-          <h3>@_MyNewCarDrive_@</h3>
-          <div className="portfolio__item-cta">
-            <a href="https://github.com/ganeshkasture95" className='btn'>Github</a>
-            <a href="https://github.com/ganeshkasture95" className='btn  btn-primary'>Live Demo</a>
-          </div>
-        </article>
-        <article className='portfolio__item'>
-          <div className="portfolio__item-image">
-            <img src={IMG6} alt="gk" />
-          </div>
-          <h3>@_Money_@</h3>
-          <div className="portfolio__item-cta">
-            <a href="https://github.com/ganeshkasture95" className='btn'>Github</a>
-            <a href="https://github.com/ganeshkasture95" className='btn  btn-primary'>Live Demo</a>
           </div>
         </article>
       </div>
 
+      <h2>Experience</h2>
+
+      
+      {/* <article className='experience__item'>
+        <h3>Developer & Team Lead | AgriTech Dr. DY Patil Vidyapeeth 09/2024 – 12/2024</h3>
+        <p>Designed and developed an intelligent farming application using React Native (Expo framework) that integrates real-time sensor data to predict plant diseases, prescribe treatments, and alert farmers.</p>
+        <p>Implemented a predictive analytics model using Keras to analyze sensor and image data for accurate disease detection.</p>
+        <p>Explore this innovative AgriTech system on GitHub and see how it’s transforming precision farming!</p>
+      </article> */}
+
     </section>
+
   )
 }
 
