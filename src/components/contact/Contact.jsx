@@ -39,19 +39,19 @@ const Contact = () => {
             <AiOutlineMail className='contact__option-icon' />
             <h4>Email</h4>
             <h5>ganeshkasture9595@gmail.com</h5>
-            <a href="mailto:ganeshkasture9595@gmail.com" target='_blank'>Send a massage</a>
+            <a href="mailto:ganeshkasture9595@gmail.com" target='_blank' rel="noopener noreferrer">Send a massage</a>
           </article>
           <article className="contact__option">
             <BsMessenger className='contact__option-icon' />
             <h4>Massenger</h4>
             <h5>ganeshkasture</h5>
-            <a href="https://m.me/ganesh.kasture.94" target='_blank'>Send a massage</a>
+            <a href="https://m.me/ganesh.kasture.94" target='_blank' rel="noopener noreferrer">Send a massage</a>
           </article>
           <article className="contact__option">
             <BsWhatsapp className='contact__option-icon' />
             <h4>Whatsapp</h4>
-            <h5></h5>
-            <a href="https://wa.me/8767199980" target='_blank'>Send a massage</a>
+            <h5>+91 8767199980</h5>
+            <a href="https://wa.me/8767199980" target='_blank' rel="noopener noreferrer">Send a massage</a>
           </article>
 
         </div>
