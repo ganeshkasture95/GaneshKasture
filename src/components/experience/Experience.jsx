@@ -114,9 +114,10 @@ const Experience = () => {
       <div className="experience__content">
         <article className='experience__details'><BsFillPatchCheckFill className="experience__detail-icons"/><div><h4>Node.js</h4><small className='text-light'>Experienced</small></div></article>
         <article className='experience__details'><BsFillPatchCheckFill className="experience__detail-icons"/><div><h4>Express.js</h4><small className='text-light'>Experienced</small></div></article>
-        <article className='experience__details'><BsFillPatchCheckFill className="experience__detail-icons"/><div><h4>Django</h4><small className='text-light'>Experienced</small></div></article>
         <article className='experience__details'><BsFillPatchCheckFill className="experience__detail-icons"/><div><h4>Firebase</h4><small className='text-light'>Experienced</small></div></article>
-        <article className='experience__details'><BsFillPatchCheckFill className="experience__detail-icons"/><div><h4>Appwrite</h4><small className='text-light'>Experienced</small></div></article>
+        <article className='experience__details'><BsFillPatchCheckFill className="experience__detail-icons"/><div><h4>MYSQL</h4><small className='text-light'>Experienced</small></div></article>
+        <article className='experience__details'><BsFillPatchCheckFill className="experience__detail-icons"/><div><h4>NoSQL</h4><small className='text-light'>Experienced</small></div></article>
+        <article className='experience__details'><BsFillPatchCheckFill className="experience__detail-icons"/><div><h4>REST API</h4><small className='text-light'>Experienced</small></div></article>
       </div>
     </div>
     
@@ -137,10 +138,15 @@ const Experience = () => {
       <h3>Other Skills</h3>
       <div className="experience__content">
         <article className='experience__details'><BsFillPatchCheckFill className="experience__detail-icons"/><div><h4>Cloud Computing (AWS)</h4><small className='text-light'>Experienced</small></div></article>
-        <article className='experience__details'><BsFillPatchCheckFill className="experience__detail-icons"/><div><h4>Game Development (Unity, Godot)</h4><small className='text-light'>Experienced</small></div></article>
+        <article className='experience__details'><BsFillPatchCheckFill className="experience__detail-icons"/><div><h4>Game Development (Unity 2D, Godot)</h4><small className='text-light'>Experienced</small></div></article>
         <article className='experience__details'><BsFillPatchCheckFill className="experience__detail-icons"/><div><h4>Machine Learning</h4><small className='text-light'>Experienced</small></div></article>
         <article className='experience__details'><BsFillPatchCheckFill className="experience__detail-icons"/><div><h4>Microservices</h4><small className='text-light'>Experienced</small></div></article>
+        <article className='experience__details'><BsFillPatchCheckFill className="experience__detail-icons"/><div><h4>Distributed Systems</h4><small className='text-light'>Experienced</small></div></article>
         <article className='experience__details'><BsFillPatchCheckFill className="experience__detail-icons"/><div><h4>CI/CD</h4><small className='text-light'>Experienced</small></div></article>
+        <article className='experience__details'><BsFillPatchCheckFill className="experience__detail-icons"/><div><h4>Jenkins</h4><small className='text-light'>Experienced</small></div></article>
+        <article className='experience__details'><BsFillPatchCheckFill className="experience__detail-icons"/><div><h4>Unit Testing</h4><small className='text-light'>Experienced</small></div></article>
+        <article className='experience__details'><BsFillPatchCheckFill className="experience__detail-icons"/><div><h4>OOP</h4><small className='text-light'>Experienced</small></div></article>
+        <article className='experience__details'><BsFillPatchCheckFill className="experience__detail-icons"/><div><h4>AI</h4><small className='text-light'>Experienced</small></div></article>
       </div>
     </div>
     
